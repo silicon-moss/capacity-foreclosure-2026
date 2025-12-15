@@ -57,6 +57,8 @@ Today, those same behaviors are protected under the guise of "Industrial Policy"
 
 ### **II. The Mechanism: The "Wafer Start" Blockade**
 
+![The Great Silicon Foreclosure Chart](DRAM_foreclosure.png)
+
 The heist began with a lie by omission. When the financial press reported that the "Stargate" joint venture—the massive AI infrastructure project backed by the Hyperscalers—had "secured supply" for their data centers, the world nodded and moved on. The narrative was simple and seemingly benign: A big customer placed a big order.
 
 *The reality was a structural foreclosure of the global market*. They didn't just buy the bread; they rented the bakery and locked the doors.
@@ -342,4 +344,6 @@ The heist is over. The vault is empty. But the getaway car is on fire, the polic
 
 * ASML financial commentary on service revenues (implying multi-million per tool annual maintenance [dcfmodeling.com](https://dcfmodeling.com/products/asml-business-model-canvas?srsltid=AfmBOorE0Nv4oXrXpSNEYAcQgBliH3DWiFCIprIkIIz0vXfXXrQW5Q5t#:~:text=service,they%20maintain%20this%20grip%20below).
 
+    
+* Overall production number is supported by sources: Samsung \~0.6M [min.news](https://min.news/en/tech/f4dc362cb258febfdb6b17876d81b922.html#:~:text=Samsung%20Electronics%27%20current%20total%20DRAM,which%20is%20quite) \+ SK \~0.5M [min.news](https://min.news/en/tech/f4dc362cb258febfdb6b17876d81b922.html#:~:text=Samsung%20Electronics%27%20current%20total%20DRAM,which%20is%20quite) \+ Micron \~0.25–0.30M TrendForce via [linkedin.com](https://www.linkedin.com/posts/marcomezger_hbm-ddr5-dram-activity-7379394788736942080-zMFK#:~:text=primarily%20to%20high,decline%2C%20but%20supply%20constraints%20outweigh) ≈ **1.4M/month now**
 
